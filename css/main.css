@@ -1,0 +1,130 @@
+
+.full-width{ width:1200px;
+}
+
+.half-width{ width:600px;
+}
+
+.portfolio{	height: 260px;
+			margin-left: 60px;
+			padding-left:10px;
+			font-family:'Barlow Semi Condensed', sans-serif;
+			font-size: 24px;
+			color:#282828;
+
+}
+.screenshots{ width:550px;
+			margin-bottom:40px;
+			margin-left: 30px;
+			border: 3px solid #6b5569;
+			padding-left:1px;
+			padding-bottom:0px;
+			font-size:0px;
+}
+
+a:link{
+text-decoration:none;
+color:white;
+}
+
+
+header{ background: url('../img/lavender.jpg');
+		height: 620px;
+		width: 100%;
+		margin-top:0px;
+		margin-bottom:0px;
+		padding-top: 0px;
+		border-top: 1px solid #e6e6ff;
+}
+
+h1{
+	margin-left: 100px;
+	padding-top: 300px;
+	font-size: 85px;
+	font-family: 'EB Garamond', serif;
+	color:#202020;
+	
+}
+
+h1 span{ font-size: 65px;
+		color: #6b5569;
+}
+
+
+h2{ font-size: 45px;
+	text-align: center;
+	margin-top:0px;
+	margin-bottom: 60px;
+	padding-top: 60px;
+	font-family: 'Noticia Text', serif;
+	color:#202020;
+	
+}
+
+#contact h2{ color:lightgray;
+}
+
+h3{ font-size: 28px;
+	color: #9b6c5e;
+	
+}
+
+#pictures{
+	width:600px;
+	float:left;
+	padding-left: 35px;
+}
+
+#descriptions{
+		width:600px;
+		float:left;
+		padding-right: 40px;
+
+}
+
+
+#work{ height:1200px;
+		background: #D0D0D0;
+		margin-top: 0px;
+}
+
+
+#about{ height:650px;
+		background:#b5a7b3;
+		margin-top:0px;
+		
+}
+
+#aboutpic{width:330px;
+		margin-left:190px;
+		margin-bottom: 70px;
+		padding-bottom: 0px;
+		float:left;
+		border: 8px solid #9b6c5e; 
+		font-size:0px;
+}
+
+#aboutme{ width:600px;
+			float:right;
+			padding-right: 50px;
+			font-family: 'georgia', sans-serif;
+			font-size: 20px;
+			color:#282828;
+			line-height: 38px;
+			margin-top:40px;
+	
+}
+
+
+
+#contact{ height: 500px;
+		background: #49274a;
+		margin-top:0px;
+		font-family:'Barlow Semi Condensed', sans-serif;
+		font-size: 28px;
+		color: lightgray;
+		text-align:center;
+}
+
+
+
